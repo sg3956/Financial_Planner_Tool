@@ -49,7 +49,7 @@ In order to run the program, insert and run the following commands in a Jupyter 
 
 
 Please make sure to register with Alpaca API and copy your API key and secret key into your env file.
-Once load_dotenv() returns `True` you can continue to the next steps.
+`Once load_dotenv()` returns `True` you can continue to the next steps.
 
 ---
 
