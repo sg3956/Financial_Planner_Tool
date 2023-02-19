@@ -31,7 +31,7 @@ Monte Carlo Simulations
 
 In order to run the program, insert and run the following commands in a Jupyter notebook :
 
-`import os'
+`import os`
 
 `import requests`
 
