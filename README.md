@@ -1,6 +1,6 @@
 # Financial_Planner_Tool
 
-This program aims to provide key information to the members of the credit unuion. The information include if the members have enough money in their emergency fund. The program also use Monte Carlo simulations to provide risk and return insights as to whether it makes sense for the memebers to retire after 10 years or 30 years.
+This program aims to provide key information to the members of the credit union. The information include if the members have enough money in their emergency fund. The program also use Monte Carlo simulations to provide risk and return insights as to whether it makes sense for the memebers to retire after 10 years or 30 years.
 
 ---
 
