@@ -45,7 +45,7 @@ In order to run the program, insert and run the following commands in a Jupyter 
 
 `from MCForecastTools import MCSimulation`
 
-%matplotlib inline
+`%matplotlib inline`
 
 
 Please make sure to register with Alpaca API and copy your API key and secret key into your env file.
