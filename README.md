@@ -9,12 +9,19 @@ This program aims to provide key information to the members of the credit union.
 The technologies required to use for this project on either Mac or PC include:
 
 Python 3.11.1
+
 Jupyter Lab
+
 Requests
+
 Json
+
 Panda
+
 Dotenv
+
 Alpaca API including required keys
+
 Monte Carlo Simulations
 
 
